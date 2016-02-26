@@ -21,5 +21,10 @@ namespace progetto1
         {
             MessageBox.Show("ciao");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("funzione3");
+        }
     }
 }
