@@ -16,3 +16,12 @@ C:\Users\casa\progetto1\progetto1\obj\Debug\progetto1.Properties.Resources.resou
 C:\Users\casa\progetto1\progetto1\obj\Debug\progetto1.csproj.GenerateResource.Cache
 C:\Users\casa\progetto1\progetto1\obj\Debug\progetto1.exe
 C:\Users\casa\progetto1\progetto1\obj\Debug\progetto1.pdb
+C:\Users\casa\Source\Repos\progetto1\progetto1\bin\Debug\progetto1.exe.config
+C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.exe
+C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.pdb
+C:\Users\casa\Source\Repos\progetto1\progetto1\bin\Debug\progetto1.exe
+C:\Users\casa\Source\Repos\progetto1\progetto1\bin\Debug\progetto1.pdb
+C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.csprojResolveAssemblyReference.cache
+C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.Form1.resources
+C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.Properties.Resources.resources
+C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.csproj.GenerateResource.Cache
