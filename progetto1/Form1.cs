@@ -20,7 +20,7 @@ namespace progetto1
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("ciao");
-            MessageBox.Show("ciao .... io sono gabrival2");
+            MessageBox.Show("amo11");
         }
 
         private void button2_Click(object sender, EventArgs e)
