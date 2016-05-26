@@ -25,3 +25,6 @@ C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.csprojResolve
 C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.Form1.resources
 C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.Properties.Resources.resources
 C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.csproj.GenerateResource.Cache
+C:\Users\gabriella\Source\Repos\progetto12\progetto1\bin\Debug\progetto1.exe.config
+C:\Users\gabriella\Source\Repos\progetto12\progetto1\obj\Debug\progetto1.exe
+C:\Users\gabriella\Source\Repos\progetto12\progetto1\obj\Debug\progetto1.pdb
