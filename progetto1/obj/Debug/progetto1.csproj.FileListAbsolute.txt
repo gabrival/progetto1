@@ -25,3 +25,12 @@ C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.csprojResolve
 C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.Form1.resources
 C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.Properties.Resources.resources
 C:\Users\casa\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.csproj.GenerateResource.Cache
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\bin\Debug\progetto1.exe.config
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.exe
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.pdb
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\bin\Debug\progetto1.exe
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\bin\Debug\progetto1.pdb
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.csprojResolveAssemblyReference.cache
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.Form1.resources
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.Properties.Resources.resources
+C:\Users\gabriella.valentini\Source\Repos\progetto1\progetto1\obj\Debug\progetto1.csproj.GenerateResource.Cache
